@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+2
+
+<html lang="pt-br">
+
+3
+
+<head>
+
+4
+
+<meta charset="UTF-8">
+
+5
+
+<meta name="viewport" content="width=device-width, intial-scale=1.0">
+
+6
+
+<title>Dados com JS</title>
+
+<style>
+
+8
+
+body{FONT: 12PT ARIAL;}
+
+9
+
+button{font-size: 12PT; PADDING: 30PX; }
+
+10
+
+</style>
+
+11
+
+</head>
+
+12
+
+<body>
+
+13
+
+<h1>Trabalhando com Dados v2.0</h1>
+
+14
+
+<button onclick="inicio ()">Clique para começar</button> <section id="resultado">
+
+15
+
+16
+
+<p>Aqui vai aparecer o resultado</p>
+
+17
+
+</section>
+
+18
+
+<script>
+
+19
+
+function inicio()
+
+20
+
+let nome=window.prompt('Qual é o seu nome?')
+
+21
+
+let res=window.document.getElementById('resultado') //Também funciona com o comando abaixo
+
+23
+
+//let res=window.document.querySelector('section#resultado')
+
+24
+
+res.innerHTML='<p>Olá, <strong>$[nome}</strong>! É um grande prazer te conhecer! &#x1F596;
+</script>
+</body>
+</html>
