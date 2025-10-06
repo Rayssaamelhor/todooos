@@ -1,0 +1,20 @@
+guitarra
+piano
+violão
+bateria
+microfone
+violino
+celho
+flauta
+xilofone 
+saxfone
+trompete
+harpa
+tambor
+corda
+teclado
+contra baixo
+clarinete
+gaita
+acordeão
+marimba
