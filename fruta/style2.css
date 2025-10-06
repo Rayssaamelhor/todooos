@@ -1,0 +1,133 @@
+.menu{
+    text-align: center;
+    color: rgb(28, 102, 18);
+}
+h1{
+    text-align: center;
+    color: rgb(28, 102, 18);
+}
+h2.borda1{background: rgb(255, 0, 0);
+    color: #fcfcfc;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    width: 76px;
+    height: 24px;
+    text-align: middle;
+    transform: rotate(30deg);
+    margin-top: -45px;
+    margin-left: 50px;
+    }
+h2.borda2{background: rgb(255, 0, 0);
+    color: #FFF;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    width: 76px;
+    height: 24px;
+    text-align: middle;
+    transform: rotate(30deg);
+    margin-top: -45px;
+    margin-left: 270px;
+    }
+h2.borda3{background: rgb(255, 0, 0);
+    color: #FFF;FF6347
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    width: 76px;
+    height: 24px;
+    text-align: middle;
+    transform: rotate(30deg);
+    margin-top: -45px;
+    margin-left: 490px;
+    }
+h2.borda4{background: rgb(255, 0, 0);
+    color: #FFF;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    width: 76px;
+    height: 24px;
+    text-align: middle;
+    transform: rotate(30deg);
+    margin-top: -45px;
+    margin-left: 713px;
+    }
+h2.borda5{background: rgb(255, 0, 0);
+    color: #FFF;
+    padding-left: 25px;
+    padding-right: 25px;
+    margin-bottom: 25px;
+    font-size: 18px;
+    width: 76px;
+    height: 24px;
+    text-align: middle;
+    transform: rotate(30deg);
+    margin-top: -45px;
+    margin-left: 913px;
+    }
+
+    h2.borda6{background: rgb(255, 0, 0);
+        color: #FFF;
+        padding-left: 25px;
+        padding-right: 25px;
+        margin-bottom: 25px;
+        font-size: 18px;
+        width: 76px;
+        height: 24px;
+        text-align: middle;
+        transform: rotate(30deg);
+        margin-top: -45px;
+        margin-left: 1113px;
+        }
+        h2.borda7{background: rgb(255, 0, 0);
+            color: #FFF;
+            padding-left: 25px;
+            padding-right: 25px;
+            margin-bottom: 25px;
+            font-size: 18px;
+            width: 76px;
+            height: 24px;
+            text-align: middle;
+            transform: rotate(30deg);
+            margin-top: -45px;
+            margin-left: 1313px;
+            }
+            h2.borda8{background: rgb(255, 0, 0);
+                color: #FFF;
+                padding-left: 25px;
+                padding-right: 25px;
+                margin-bottom: 25px;
+                font-size: 18px;
+                width: 76px;
+                height: 24px;
+                text-align: middle;
+                transform: rotate(30deg);
+                margin-top: -45px;
+                margin-left: 1513px;
+                }
+                h2.borda9{background: rgb(255, 0, 0);
+                    color: #FFF;
+                    padding-left: 25px;
+                    padding-right: 25px;
+                    margin-bottom: 25px;
+                    font-size: 18px;
+                    width: 76px;
+                    height: 24px;
+                    text-align: middle;
+                    transform: rotate(30deg);
+                    margin-top: -45px;
+                    margin-left: 1713px;
+                    }
+                        
+ 
+
+          
+.rodapé {width: 1040px; height: 70px; margin-top: 36px; font-size: 32px;
+   text-align: center; color:rgb(255, 255, 255);text-shadow: 2px 2px 2px rgb(0, 17, 255)
+   }

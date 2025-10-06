@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Smaniotto Pizzaria</title>
+
+    <style>
+        body{
+            background-color: #e767f3c9;
+            margin-left: 20%;
+            margin-right: 20%;
+            border: 4px dotted rgb(0, 0, 0);
+            padding: 10px 10px 10px 10px;
+        }
+        h1.titulo{
+            color:rgb(4, 3, 5);
+            font-family: Verdana, Geneva, Tahoma;
+            font-size: 30pt;
+            text-align: center;
+            text-shadow: 4px 4px 4px #0b973a;
+        }
+        img{border: 4px solid rgb(136, 0, 0); margin-left: 2%;margin-right: 10px;}
+        h2.sub-titulo{
+            color:rgb(0, 0, 0);
+            font-family: Verdana, Geneva, Tahoma;
+            text-shadow: 2px 2px 2px rgb(39, 10, 199);
+            text-align: center;
+            font-weight: bold;
+        }
+        li.menu{
+            color: rgb(120, 0, 233);
+            font-family: Verdana, Geneva, Tahoma;
+            text-shadow: 2px 2px 2px rgb(0, 0, 0, 0);
+            text-align: center;
+            font-weight: bold;
+        }
+        p.menu-texto{
+            font-family: Verdana, Geneva, Tahoma;                      
+        }
+        p{
+            font-family: Verdana;
+            margin-left: 2em;margin-right: 10px;
+            font-size: 15px;  
+            color: rgb(1, 34, 13);      
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <h1 class="titulo">Smaniotto Pizzaria</h1>
+    <br>
+    <img src="pizza1.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza2.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza3.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza4.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza5.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+   
+    <h2 class="sub-titulo">Cardápio - Pizzas Salgadas</h2>
+    <br>
+    <ol>
+        <li class="menu"> Strogonoff de Carne - R$65,90</li>
+        <p class="menu-texto">Ingredientes: Molho de Tomate, Strogonoff de Carne, Champignon, Batata Palha</p>
+        <hr>
+        <li class="menu"> Frango com Catupiry - R$65,90</li>
+        <p class="menu-texto">Ingredientes: Molho de Tomate, Mussarela, Frango Temperado, Bacon, Catupiry Original, Azeitonas, Batata Palha</p>
+        <hr>
+        <li class="menu"> Calabresa - R$65,90</li>
+        <p class="menu-texto">Ingredientes: Molho de Tomate, Mussarela, Catupiry Original, Azeitonas Pretas, Batata Palha</p>
+        <hr>
+        <li class="menu"> Quatro Queijos - R$65,90</li>
+        <p class="menu-texto">igredientes: Molho de Tomate, Mussarela, Queijo, Milho, Cheddar, Catupiry Original, Cebola, Orégano</p>
+        <hr>
+        <li class="menu"> Sushi pizza - R$ 75,90</li>
+        <p class="menu-texto">igredientes: Arroz, Cebola Roxa, Picles, Kanikama, Shoyu, Peixe</p>
+    </ol>
+    <br>
+    
+    <img src="pizza6.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza7.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza8.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza9.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+    <img src="pizza10.jpg" alt="imagem de pizza" width="130" height="130" border="4">
+
+    <h2 class="sub-titulo">Cardápio - Pizzas doces</h2>
+    <br>
+    <ol>
+        <li class="menu">Chocolate com Morango - R$76,00</li> 
+        <p class="menu-texto">igredientes: Chocolate Preto, Morango, Leite condensado</p>
+    <hr>
+    <li class="menu">Banoffee - R$ 76,90</li>
+        <p class="menu-texto">igredientes: Banana, Doce de Leite, Canela</p>
+        <hr>
+    <li class="menu">Pizza Kit Kat - R$ 80,00</li>
+    <p class="menu-texto">igredientes: Chocolate Kit Kat</p>
+    <hr>
+    <li class="menu">Pizza Sorvete de Creme com Morango- R$ 80,00</li>
+    <p class="menu-texto">igredientes: Sorvete de Creme, Morango, Leite Condensado</p>
+    <hr>
+    <li class="menu">Pizza Cereja - R$ 80,00</li>
+    <p class="menu-texto">igredientes: Chocolate Preto, Cereja, granulado</p>
+    <hr>
+
+    </li>
+    </ol>
+    <p>Whatsapp: (42) 99984-6623<br>
+        Instagran: @Smaniottopizzaria_<br>
+        Facebook: Smaniotto.pizzaria
+    </p>
+
+</body>
+</html>
